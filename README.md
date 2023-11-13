@@ -1,3 +1,13 @@
+# IBM Sustainability Accelerator
+
+The IBM Sustainability Accelerator is a pro bono social impact program that applies IBM technologies, such as [hybrid cloud](https://www.ibm.com/cloud) and [artificial intelligence](https://www.ibm.com/artificial-intelligence), and an ecosystem of experts to enhance and scale non-profit and government organization initiatives, helping populations especially vulnerable to environmental threats including climate change, extreme weather, and pollution.The [IBM Sustainability Accelerator](https://www.ibm.com/impact/initiatives/ibm-sustainability-accelerator) is a unique program given:
+
+• Purpose: The program is designed to target specific populations and communities especially vulnerable to environmental challenges with a new sustainability topic and cohort of organizations introduced each year.
+
+• Methodology and Scope: It provides end-to-end support, from the ideation, with a technical roadmap developed through our [IBM Garage Methodology](https://www.ibm.com/garage) to scaling solutions that drive long-term impact and key societal outcomes. The IBM Sustainability Accelerator provides a wide array of tools, technologies, and expertise to execute a comprehensive deployment leveraging the extensive capabilities of IBM’s breadth of technology and network of cross-industry experts.
+
+If you have additional questions, please contact **sustainability.accelerator@ibm.com**
+
 # Open YvY
 
 YvY facilitate the application of sustainable agricultural practices to smallholder farmers, so that they can improve their production systems and their competitiveness in the market, through the use of technological tools free of charge
