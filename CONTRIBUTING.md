@@ -2,16 +2,15 @@
 
 Open YvY is an open source project and always welcome contributions to the project. You can contribute in the following ways:
 
-- .....
-- ....
-<!-- - Software and Hardware testing
-- Localization and improvisation of the application
-- Add/Update crop data
-- Enhance watering advise algorithm
-- Pilot testing the solution
+- Report bug and/or work on existing [issues](https://github.com/open-yvy/open-yvy/issues)
+
 - Improve the documentation
-- Report bug and/or work on existing [issues](https://github.com/Call-for-Code/Liquid-Prep/issues)
-- Request/recommend new features in our [issues](https://github.com/Call-for-Code/Liquid-Prep/issues) or [discussions board](https://github.com/Call-for-Code/Liquid-Prep/discussions) -->
+
+- Improve the security authentication
+
+- Improve or develope the source code using the [Project Roadmap](https://github.com/open-yvy/open-yvy#project-roadmap) lines for each item
+
+- Develope unit test for any module or service
 
 Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](Open-YvY-Technical-Charter.pdf).
 

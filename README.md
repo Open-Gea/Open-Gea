@@ -10,47 +10,98 @@ If you have additional questions, please contact **sustainability.accelerator@ib
 
 # Open YvY
 
-YvY facilitate the application of sustainable agricultural practices to smallholder farmers, so that they can improve their production systems and their competitiveness in the market, through the use of technological tools free of charge
+YvY seeks to facilitate the sustainability and competitiveness of small farmers, providing them with access to technologies and information that facilitate the management of agricultural production.Small farmers face great challenges such as climate change and market demands.
 
-YvY contains several modules that allow the farmer to control the production process of his farm with a low environmental impact, such as Calculation of Water Footprint and Carbon Footprint, Irrigation Needs, Climate Forecast and Historical Record and more.
+YvY provides 10 functionalities that have climatic and agronomic information from the IBM Intelligence suite. It also offers functionalities for sustainable agricultural management. There are more than 1,000 farmers who are using YvY in their production.
 
-VIDEO PRESENTATION HERE
+(VIDEO OF OPEN YVY HERE SOON)
 
 ## Solution Details
 
-Initial motivation, Call For Code Context and Site Map solution here
+The YvY solution is based on a web application structured in different modules.
+
+[![user guide video](images/yvy-home.png)](https://www.youtube.com/watch?v=RRV03Pfi0YY)
+
+It contains a registration module, with verification by email.
+
+It also allows up to now to use two types of users: The producer user, and the Organization user.
+
+The first contemplates a compact solution of all the modules developed so far, intended for the private use of the producer user.
+
+The second allows different producer users to be grouped in an organization. The organization user can centralize the information of all its users, through an invitation process to be part of it. It can also create a producer user from the same organization account.
+
+You can review the [sitemap](./docs/YvY-Sitemap.pdf) to understand the structure of the solution.
 
 #### YvY Client App
 
-Front end technologies. User interface login and register. 
+The client application uses VITE as a development environment, using React Js as the main framework. The predominant language is Javascript.
+Redux is used for local browser storage, thus centralizing the user's information with the different modules linked to it.
+
 
 #### Backend Service
 
-Back end techs here. API resume here. Database hosting (IBM Cloud) and another backend services such IA Chatbot
+The server solution consists of an API created with Node Js, using the Typescript language to ensure correct typing and structuring of data.
+
+The API uses service-oriented design pattern. It also uses the repository pattern to enable the migration of technologies for the database in the future.
+
+The communication protocol is http, using Express technology.
+
+The database used is Postgres, with the help of the ORM Type-ORM.
 
 
 #### External Services
 
-Weather API solution. Meteostat API solution.
+YvY uses some external services to provide added value to some modules.
+
+Such is the case in the water footprint calculation, where the Meteostat API is used to calculate its values.
+
+It also uses the Weather API, an IBM partner, to provide climate and soil data through satellite information. This resource was thanks to the IBM Sustainability Accelerator program
 
 ## Get Started
 
 Basic guidelines for developers to get started contributing:
-- Set ups front and back services
-- Developer environment (??)
-- Project Roadmap
+
+- Take a time to read our [Contributing](./CONTRIBUTING.md) politcs and code of conduct
+
+- Take a look on our User Manual to get the user perspective of yvy app with our [User Manual](./docs/Users-Manual-YvY.pdf)
+
+- [YvY app client setup]() ((README link here))
+
+- [YvY api server]() ((README link here))
+
+- Prepare the local environment database (We will prepare a document for it)
+
+- Take a look on the [Project Roadmap](#project-roadmap) and choose the item you'd like to contribute.
+
+- Contact us: Join the **#open-yvy** slack channel in the **[Call for Code](https://callforcode.org/slack)** workspace and get in touch.
 
 ## Project Roadmap
 
-Specifics Goals for the open source project, such as improving modules functionalities, new modules, testing...
+The initial roadmap for the open-yvy project consists of improving the YvY application, with existing modules, to meet the needs of small farmers using web technology.
+
+YvY currently has various specific modules for different utilities.
+
+The first objectives of the open-yvy project could be to generate added value with the already existing modules, improving the user experience
+
+- Historical Record: Statistics dashboard that uses data from the user's different records.
+
+- QR Code: Expand the information provided by the module to show the traceability information of the farm (historical records)
+
+- Improve the calculation of the water footprint
+
+- Improve the soil regeneration plan module
+
+Participation is welcomed from software developers, designers, testers, agronomists/agri experts/soil experts, IoT engineers, researchers, students, farmers, and others that can help improve the quality and value of the solution for small farmers around the world.
 
 ## Contributors
 
-devs profiles
+<a href="https://github.com/Open-YvY/Open-YvY/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Open-YvY/OpenYvY" />
+</a>
 
 ## Contributing
 
-Contibute document
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, areas where we'd like to see community contributions, and the process for submitting pull requests to the project.
 
 ## Technical Steering Committee
 
