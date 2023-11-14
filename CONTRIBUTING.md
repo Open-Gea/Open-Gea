@@ -52,18 +52,11 @@ will be prevented from making any decisions at the meeting.
 
 ### Current TSC members
 
-- Manu (github profile)
-- Fede (github profile)
-- ...
-<!-- - [Ilse Breedvelt](https://github.com/ilsebreedvelt) - IBM Design Principal/Master Inventor
-- [Gaurav Ramakrishna](https://github.com/Gaurav-Ramakrishna) - IBM Software Developer
-- [Cornelius Nesen](https://github.com/cnesen) - IBM Software Developer
-- [Yuanyuan Li](https://github.com/Yuanyuan199) - IBM Software Developer
-- [Daniel Krook](https://github.com/krook) - IBM Call for Code CTO
-- [Yongcan Zhang](https://github.com/ilfreedom) - IBM Software Developer
-- [Jeff Lu](https://github.com/playground) - IBM Lead Software Developer
-- [Brian Rashap](https://github.com/brashap) - IoT Professor, CNM Ingenuity
-- [Jason Lee](https://www.thesmartcone.com/) - Founder & CEO, SmartCone Technologies Inc. -->
+- [Manuel Sanchez](https://github.com/msanchezc) 
+- [Federico Interlandi Zoireff](https://github.com/FEDEIZ)
+- Gaudy Esquivel
+- Fabian Román
+- Guadalupe Carbo
 
 ## Contributing Guidelines
 
