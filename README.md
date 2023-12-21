@@ -83,11 +83,13 @@ YvY currently has various specific modules for different utilities.
 
 The first objectives of the open-yvy project could be to generate added value with the already existing modules, improving the user experience
 
+- Refactoring project's architecture on both repositories (back and front)
+
+- Refactoring modules so that they adopt a uniform and simple format, where it can be reusable throughout the project
+
+- Prepare a migration to microservices so that each new module can be developed as an additional microservice
+
 - Historical Record: Statistics dashboard that uses data from the user's different records.
-
-- QR Code: Expand the information provided by the module to show the traceability information of the farm (historical records)
-
-- Improve the calculation of the water footprint
 
 - Improve the soil regeneration plan module
 
