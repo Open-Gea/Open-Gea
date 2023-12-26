@@ -1,22 +1,22 @@
-# Contributing to Open YvY
+# Contributing to Open Gea
 
-Open YvY is an open source project and always welcome contributions to the project. You can contribute in the following ways:
+Open Gea is an open source project and always welcome contributions to the project. You can contribute in the following ways:
 
-- Report bug and/or work on existing [issues](https://github.com/open-yvy/open-yvy/issues)
-
+- Report bug and/or work on existing [issues](https://github.com/open-gea/open-gea/issues)
+<!-- Cambiar link a gea -->
 - Improve the documentation
 
 - Improve the security authentication
 
-- Improve or develope the source code using the [Project Roadmap](https://github.com/open-yvy/open-yvy#project-roadmap) lines for each item
-
+- Improve or develope the source code using the [Project Roadmap](https://github.com/open-gea/open-gea#project-roadmap) lines for each item
+<!-- Cambiar link a gea -->
 - Develope unit test for any module or service
 
-Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](Open-YvY-Technical-Charter.pdf).
+Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](open-gea-Technical-Charter.pdf).
 
 ## Technical Steering Committee (TSC)
 
-The TSC will be responsible for all technical oversight of the Open YvY project. Participation in the Project through becoming a Contributor and Committer is
+The TSC will be responsible for all technical oversight of the Open Open Gea. Participation in the Project through becoming a Contributor and Committer is
 open to anyone.
 
 The TSC may
@@ -61,7 +61,7 @@ will be prevented from making any decisions at the meeting.
 ## Contributing Guidelines
 
 When contributing a major change to this repository, please first discuss the change you wish to make via an [issue](../../issues) or via
-[Slack in the #open-yvy channel](https://developer.ibm.com/callforcode/solutions/projects/get-started/). Minor issues can simply be addressed by sending by a pull request.
+[Slack in the #open-gea channel](https://developer.ibm.com/callforcode/solutions/projects/get-started/). Minor issues can simply be addressed by sending by a pull request.
 
 All pull requests will require you to ensure the change is certified via the [Developer Certificate of Origin (DCO)](https://github.com/apps/dco/). The DCO is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
 
@@ -129,7 +129,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team on [Slack in the #open-yvy channel](https://callforcode.org/slack) or send an email to **((open yvy info adress here!))<!-- info.liquidprep@gmail.com -->**.
+reported by contacting the project team on [Slack in the #open-gea channel](https://callforcode.org/slack) or send an email to **((Open Gea info adress here!))<!-- info.liquidprep@gmail.com -->**.
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.Further details of specific enforcement policies may be posted separately.
 
