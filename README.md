@@ -1,10 +1,10 @@
-# Gea Project
+# Open Gea
 
-Gea Project seeks to facilitate the sustainability and competitiveness of small farmers, providing them with access to technologies and information that facilitate the management of agricultural production.Small farmers face great challenges such as climate change and market demands.
+Open Gea seeks to facilitate the sustainability and competitiveness of small farmers, providing them with access to technologies and information that facilitate the management of agricultural production.Small farmers face great challenges such as climate change and market demands.
 
-Gea Project provides 10 functionalities that have climatic and agronomic information from the IBM Intelligence suite. It also offers functionalities for sustainable agricultural management. There are more than 1,000 farmers who are using Gea Project in their production.
+Open Gea provides 10 functionalities that have climatic and agronomic information from the IBM Intelligence suite. It also offers functionalities for sustainable agricultural management. There are more than 1,000 farmers who are using Open Gea in their production.
 
-<!-- (VIDEO OF Gea Project HERE SOON) -->
+<!-- (VIDEO OF Open Gea HERE SOON) -->
 
 # IBM Sustainability Accelerator
 
@@ -18,11 +18,11 @@ If you have additional questions, please contact **sustainability.accelerator@ib
 
 ## Solution Details
 
-The Gea Project solution is based on a web application structured in different modules.
+The Open Gea solution is based on a web application structured in different modules.
 
 [![user guide video](images/gea-home.png)](https://www.youtube.com/watch?v=RRV03Pfi0YY)
 
-<!-- Hacer nuevo video con el nuevo logo de Gea project -->
+<!-- Hacer nuevo video con el nuevo logo de Open Gea -->
 
 It contains a registration module, with verification by email.
 
@@ -34,7 +34,7 @@ The second allows different producer users to be grouped in an organization. The
 
 You can review the [sitemap](./docs/YvY-Sitemap.pdf) to understand the structure of the solution.
 
-<!-- Cambiar el sitemap para Gea Project -->
+<!-- Cambiar el sitemap para Open Gea -->
 
 #### Client App
 
@@ -55,7 +55,7 @@ The database used is Postgres, with the help of the ORM Type-ORM.
 
 #### External Services
 
-Gea Project uses some external services to provide added value to some modules.
+Open Gea uses some external services to provide added value to some modules.
 
 Such is the case in the water footprint calculation, where the Meteostat API is used to calculate its values.
 
@@ -71,23 +71,23 @@ Basic guidelines for developers to get started contributing:
 
 <!-- Cambiar manual de usuario para el nuevo nombre y logo -->
 
-- [Gea Project app client setup]() ((README link here))
+- [Open Gea app client setup]() ((README link here))
 
-- [Gea Project api server]() ((README link here))
+- [Open Gea api server]() ((README link here))
 
 - Prepare the local environment database (We will prepare a document for it)
 
 - Take a look on the [Project Roadmap](#project-roadmap) and choose the item you'd like to contribute.
 
-- Contact us: Join the **#gea-project** slack channel in the **[Call for Code](https://callforcode.org/slack)** workspace and get in touch.
+- Contact us: Join the **#open-gea** slack channel in the **[Call for Code](https://callforcode.org/slack)** workspace and get in touch.
 
 ## Project Roadmap
 
-The initial roadmap for the Gea project consists of improving the Gea application, with existing modules, to meet the needs of small farmers using web technology.
+The initial roadmap for the Open Gea consists of improving the Gea application, with existing modules, to meet the needs of small farmers using web technology.
 
 Gea currently has various specific modules for different utilities.
 
-The first objectives of the Gea project could be to generate added value with the already existing modules, improving the user experience
+The first objectives of the Open Gea could be to generate added value with the already existing modules, improving the user experience
 
 - Refactoring project's architecture on both repositories (back and front)
 
@@ -107,7 +107,7 @@ Participation is welcomed from software developers, designers, testers, agronomi
   <img src="https://contributors-img.web.app/image?repo=Open-YvY/OpenYvY" />
 </a>
 
-<!-- Cambiar links a Gea project -->
+<!-- Cambiar links a Open Gea -->
 
 ## Contributing
 
@@ -115,12 +115,12 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Technical Steering Committee
 
-Per the [Gea-Project-Technical-Charter](Gea-Project-Technical-Charter.pdf).
+Per the [open-gea-Technical-Charter](open-gea-Technical-Charter.pdf).
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for TSC details.
 
 ## License
 
-Copyright 2019-2022 Gea Project
+Copyright 2019-2022 Open Gea
 
 Unless otherwise noted, this project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 

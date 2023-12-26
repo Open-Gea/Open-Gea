@@ -1,6 +1,6 @@
-# Contributing to Gea Project
+# Contributing to Open Gea
 
-Gea Project is an open source project and always welcome contributions to the project. You can contribute in the following ways:
+Open Gea is an open source project and always welcome contributions to the project. You can contribute in the following ways:
 
 - Report bug and/or work on existing [issues](https://github.com/open-yvy/open-yvy/issues)
 <!-- Cambiar link a gea -->
@@ -12,11 +12,11 @@ Gea Project is an open source project and always welcome contributions to the pr
 <!-- Cambiar link a gea -->
 - Develope unit test for any module or service
 
-Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](Gea-Project-Technical-Charter.pdf).
+Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](open-gea-Technical-Charter.pdf).
 
 ## Technical Steering Committee (TSC)
 
-The TSC will be responsible for all technical oversight of the Gea Project project. Participation in the Project through becoming a Contributor and Committer is
+The TSC will be responsible for all technical oversight of the Open Open Gea. Participation in the Project through becoming a Contributor and Committer is
 open to anyone.
 
 The TSC may
@@ -129,7 +129,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team on [Slack in the #gea-project channel](https://callforcode.org/slack) or send an email to **((Gea Project info adress here!))<!-- info.liquidprep@gmail.com -->**.
+reported by contacting the project team on [Slack in the #open-gea channel](https://callforcode.org/slack) or send an email to **((Open Gea info adress here!))<!-- info.liquidprep@gmail.com -->**.
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.Further details of specific enforcement policies may be posted separately.
 
