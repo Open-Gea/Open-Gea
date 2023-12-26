@@ -32,7 +32,7 @@ The first contemplates a compact solution of all the modules developed so far, i
 
 The second allows different producer users to be grouped in an organization. The organization user can centralize the information of all its users, through an invitation process to be part of it. It can also create a producer user from the same organization account.
 
-You can review the [sitemap](./docs/YvY-Sitemap.pdf) to understand the structure of the solution.
+You can review the original yvy [sitemap](./docs/YvY-Sitemap.pdf) to understand the structure of the open source solution.
 
 <!-- Cambiar el sitemap para Open Gea -->
 
@@ -67,7 +67,7 @@ Basic guidelines for developers to get started contributing:
 
 - Take a time to read our [Contributing](./CONTRIBUTING.md) politcs and code of conduct
 
-- Take a look on our User Manual to get the user perspective of yvy app with our [User Manual](./docs/Users-Manual-YvY.pdf)
+- Take a look on our original User Manual to get the user perspective of yvy app with our [User Manual](./docs/Users-Manual-YvY.pdf)
 
 <!-- Cambiar manual de usuario para el nuevo nombre y logo -->
 
@@ -103,8 +103,8 @@ Participation is welcomed from software developers, designers, testers, agronomi
 
 ## Contributors
 
-<a href="https://github.com/Open-YvY/Open-YvY/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Open-YvY/OpenYvY" />
+<a href="https://github.com/Open-Gea/Open-Gea/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Open-Gea/Open-Gea" />
 </a>
 
 <!-- Cambiar links a Open Gea -->

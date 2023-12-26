@@ -2,13 +2,13 @@
 
 Open Gea is an open source project and always welcome contributions to the project. You can contribute in the following ways:
 
-- Report bug and/or work on existing [issues](https://github.com/open-yvy/open-yvy/issues)
+- Report bug and/or work on existing [issues](https://github.com/open-gea/open-gea/issues)
 <!-- Cambiar link a gea -->
 - Improve the documentation
 
 - Improve the security authentication
 
-- Improve or develope the source code using the [Project Roadmap](https://github.com/open-yvy/open-yvy#project-roadmap) lines for each item
+- Improve or develope the source code using the [Project Roadmap](https://github.com/open-gea/open-gea#project-roadmap) lines for each item
 <!-- Cambiar link a gea -->
 - Develope unit test for any module or service
 
@@ -61,7 +61,7 @@ will be prevented from making any decisions at the meeting.
 ## Contributing Guidelines
 
 When contributing a major change to this repository, please first discuss the change you wish to make via an [issue](../../issues) or via
-[Slack in the #open-yvy channel](https://developer.ibm.com/callforcode/solutions/projects/get-started/). Minor issues can simply be addressed by sending by a pull request.
+[Slack in the #open-gea channel](https://developer.ibm.com/callforcode/solutions/projects/get-started/). Minor issues can simply be addressed by sending by a pull request.
 
 All pull requests will require you to ensure the change is certified via the [Developer Certificate of Origin (DCO)](https://github.com/apps/dco/). The DCO is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
 
