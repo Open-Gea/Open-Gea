@@ -1,8 +1,11 @@
-# Open YvY - Background
+# Gea Project and YvY - Background
 
-YvY means earth or soil in Guarani, that is why we chose that name, to honor that resource essential for the life of the planet and so important in the lives of millions of men and women around the world.
+YvY means earth or soil in Guarani (is a South American language spoken by communities in neighboring countries),and Gea is the ancient Greek goddess of the earth, mother of the Titans. We choose it to honor that resource essential for the life of the planet and so important in the lives of millions of men and women around the world.
 
-The Plan21 Foundation's Regenerative Agriculture Program was born to contribute to the transformation of the agricultural sector in Latin America. YvY has a web application to support small farmers. The YvY prototype was a regional finalist for Latin America in the Call for Code 2021 and is part of the first group of projects in the IBM Sustainability Accelerator, together with Heifer International and The Nature Conservancy.
+YvY was the seed and the original name of the solution we are presenting here. And Gea Project is the open source transformation of YvY.
+
+
+The Plan21 Foundation's Regenerative Agriculture Program was born to contribute to the transformation of the agricultural sector in Latin America. YvY (the original name) has a web application to support small farmers. The YvY prototype was a regional finalist for Latin America in the Call for Code 2021 and is part of the first group of projects in the IBM Sustainability Accelerator, together with Heifer International and The Nature Conservancy.
 
 This project seeks to respond to the current problems faced by small farmers in Latin America such as: Climate change, loss of soil fertility, misuse of agrochemicals and new market demands and regulations.
 
@@ -12,7 +15,7 @@ Currently this project has more than 10 functionalities that have been provided 
 
 ## Origins in Call for Code 
 
-In 2021, the YvY project was a regional finalist for IBM Call For Code, a program that invites software developers and innovators around the world to combat climate change with technology, in which it provides support for project development to each selected organization. Plan21 along with Heifer International and The Nature Conservancy was part of the IBM Sustainability Accelerator, a program that applies IBM technologies, helping populations especially vulnerable to environmental threats, including climate change, extreme weather and pollution.
+In 2021, the YvY project (Gea project is the open source version) was a regional finalist for IBM Call For Code, a program that invites software developers and innovators around the world to combat climate change with technology, in which it provides support for project development to each selected organization. Plan21 along with Heifer International and The Nature Conservancy was part of the IBM Sustainability Accelerator, a program that applies IBM technologies, helping populations especially vulnerable to environmental threats, including climate change, extreme weather and pollution.
 
 
 ## The process:
@@ -29,7 +32,7 @@ IBM, the technological TEC of Costa Rica, MAG Ministry of Agriculture of Costa R
 
 Currently, the network of YvY allies continues to expand since it is an initiative that seeks continuous improvement and has a comprehensive view of the solutions it offers, for this reason it is a project that allows the participation of different actors in the construction of the tool. It involves different areas of knowledge both in the computer science area and in environmental sciences and the perspective of those who use this application.
 
-## Present
+## Present of YvY
 
 YvY is currently being tested by more than 5 Latin American countries; Costa Rica, Ecuador, Argentina, Guatemala and Colombia.
 YvY functionalities are currently
@@ -53,7 +56,7 @@ Manuel Sánchez - Architecture Engineer
 
 ## Join the community
 
-This project seeks to create a comprehensive and 100% useful tool for the productive, social and environmental reality of the beneficiaries. For this reason, it is of utmost importance to participate and create a community of professionals who contribute their knowledge and skills to this purpose. We face a changing reality where small farmers face new challenges every day, and sustainable food production is imminent. In this context, technology plays a fundamental role in supporting processes of change and facing new realities.
+This Gea project seeks to create a comprehensive and 100% useful tool for the productive, social and environmental reality of the beneficiaries. For this reason, it is of utmost importance to participate and create a community of professionals who contribute their knowledge and skills to this purpose. We face a changing reality where small farmers face new challenges every day, and sustainable food production is imminent. In this context, technology plays a fundamental role in supporting processes of change and facing new realities.
 
 See the impact through this [video](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1773841/uiconf_id/27941801/entry_id/1_lx8hrojg/embed/dynamic)
 
