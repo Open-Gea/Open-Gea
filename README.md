@@ -115,7 +115,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Technical Steering Committee
 
-Per the [open-gea-Technical-Charter](open-gea-Technical-Charter.pdf).
+Per the [open-gea-technical-charter](open-gea-technical-charter.pdf).
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for TSC details.
 
 ## License
