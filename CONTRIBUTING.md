@@ -12,7 +12,7 @@ Open Gea is an open source project and always welcome contributions to the proje
 <!-- Cambiar link a gea -->
 - Develope unit test for any module or service
 
-Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](Open-Gea-Technical-Charter.pdf).
+Please read our [contributing guidelines](#contributing-guidelines) and founding [Technical Charter](open-gea-technical-charter.pdf).
 
 ## Technical Steering Committee (TSC)
 
